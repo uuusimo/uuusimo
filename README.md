@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uuusimo
 - 👀 I’m interested in computer sciences and programming in general.
 - 🌱 I’m currently learning Kotlin and Android app development
-- 📫 How to reach me simone@martelossi.org
+- 📫 How to reach me simone@martelossi.si
 
 <!---
 uuusimo/uuusimo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
