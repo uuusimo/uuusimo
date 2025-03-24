@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uuusimo
 - 👀 I’m interested in computer sciences and programming in general.
-- 🌱 I’m currently learning Kotlin and Android app development
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me simone@martelossi.si
 
 <!---
