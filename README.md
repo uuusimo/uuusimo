@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uuusimo
 - 👀 I’m interested in computer sciences and programming in general.
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning C++
 - 📫 How to reach me simone@martelossi.si
 
 <!---
